@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sandip-Tiwari09
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DSA and Development along with the UI/UX Design.
-- 💞️ I’m looking to collaborate on Development Team.
-- 📫 How to reach me through Linkedin : ...
-- 😄 Pronouns:
+- 💞️ I’m looking to collaborate on the Development Team.
+- 📫 How to reach me through Linkedin: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding and Learning new things.
 
 <!---
